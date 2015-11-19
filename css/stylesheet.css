@@ -180,7 +180,7 @@ p {
 .about-us-video {
     height: 261px;
     width: auto;
-    background: url(images/Video-fullsize2.png) center no-repeat;
+    background: url(/images/Video-fullsize2.png) center no-repeat;
     text-align: left;
     margin-top: 50px;
     margin-bottom: 50px;
@@ -199,7 +199,7 @@ your selectors that need to be shown
 on desktop AND are --inline-block-- */
     .about-us-video {
         height:523px;
-        background: url(images/Video-fullsize2.jpg) no-repeat center cover; 
+        background: url(/images/Video-fullsize2.jpg) no-repeat center cover; 
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
@@ -254,37 +254,37 @@ h3 {
 }
 
 .services-graphicdesign {
-    background: url(images/paintbrush.png) no-repeat;
+    background: url(/images/paintbrush.png) no-repeat;
     margin: 30px 30px 10px 41px;
     height: 61px;
 }
 
 .services-mobappdev {
-    background: url(images/mobile-phone.png) no-repeat;
+    background: url(/images/mobile-phone.png) no-repeat;
     margin: 30px 30px 10px 41px;
     height: 59px;
 }
 
 .services-webdev {
-    background: url(images/monitor.png) no-repeat;
+    background: url(/images/monitor.png) no-repeat;
     margin: 30px 30px 10px 41px;
     height: 48px;
 }
 
 .services-seomarket {
-    background: url(images/seomarketing.png) no-repeat;
+    background: url(/images/seomarketing.png) no-repeat;
     margin: 30px 30px 10px 41px;
     height: 48px;
 }
 
 .services-gamedev {
-    background: url(images/gameicon.png) no-repeat;
+    background: url(/images/gameicon.png) no-repeat;
     margin: 30px 30px 10px 41px;
     height: 48px;
 }
 
 .services-love {
-    background: url(images/loveicon.png) no-repeat;
+    background: url(/images/loveicon.png) no-repeat;
     margin: 30px 30px 10px 41px;
     height: 48px;
 }
