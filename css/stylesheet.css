@@ -180,7 +180,7 @@ p {
 .about-us-video {
     height: 261px;
     width: auto;
-    background: url("..images/Video-fullsize2.png") center no-repeat;
+    background: url(/images/Video-fullsize2.png) center no-repeat;
     text-align: left;
     margin-top: 50px;
     margin-bottom: 50px;
