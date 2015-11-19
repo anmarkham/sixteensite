@@ -254,37 +254,37 @@ h3 {
 }
 
 .services-graphicdesign {
-    background: url(/images/paintbrush.png) no-repeat;
+    background: url(images/paintbrush.png) no-repeat;
     margin: 30px 30px 10px 41px;
     height: 61px;
 }
 
 .services-mobappdev {
-    background: url(/images/mobile-phone.png) no-repeat;
+    background: url(images/mobile-phone.png) no-repeat;
     margin: 30px 30px 10px 41px;
     height: 59px;
 }
 
 .services-webdev {
-    background: url(/images/monitor.png) no-repeat;
+    background: url(images/monitor.png) no-repeat;
     margin: 30px 30px 10px 41px;
     height: 48px;
 }
 
 .services-seomarket {
-    background: url(/images/seomarketing.png) no-repeat;
+    background: url(images/seomarketing.png) no-repeat;
     margin: 30px 30px 10px 41px;
     height: 48px;
 }
 
 .services-gamedev {
-    background: url(/images/gameicon.png) no-repeat;
+    background: url(images/gameicon.png) no-repeat;
     margin: 30px 30px 10px 41px;
     height: 48px;
 }
 
 .services-love {
-    background: url(/images/loveicon.png) no-repeat;
+    background: url(images/loveicon.png) no-repeat;
     margin: 30px 30px 10px 41px;
     height: 48px;
 }
