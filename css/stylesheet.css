@@ -180,7 +180,7 @@ p {
 .about-us-video {
     height: 261px;
     width: auto;
-    background: url(/images/Video-fullsize2.png) center no-repeat;
+    background: url(/images/Video-fullsize2.PNG) center no-repeat;
     text-align: left;
     margin-top: 50px;
     margin-bottom: 50px;
@@ -199,7 +199,7 @@ your selectors that need to be shown
 on desktop AND are --inline-block-- */
     .about-us-video {
         height:523px;
-        background: url(/images/Video-fullsize2.jpg) no-repeat center cover; 
+        background: url(/images/Video-fullsize2.JPG) no-repeat center cover; 
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
