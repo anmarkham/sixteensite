@@ -68,7 +68,7 @@ nav > div > span {
 .hero {
     color: #9abd67;
     height: 350px;
-    background: #9abd67 url('/images/silhouette.png') repeat-x bottom;
+    background: #9abd67 url('../images/silhouette.png') repeat-x bottom;
     background-size: auto 85px;
 }
 
@@ -115,7 +115,7 @@ p {
 .about-us h1 {
     color: #454545;
     font: 400 18px 'Source Sans Pro';
-    background: url('/images/man449.png') no-repeat;
+    background: url('../images/man449.png') no-repeat;
     height: 30px;
     padding-left: 35px;
     line-height: 30px;
@@ -180,7 +180,7 @@ p {
 .about-us-video {
     height: 261px;
     width: auto;
-    background: url(/images/Video-fullsize2.png) center no-repeat;
+    background: url(../images/Video-fullsize2.png) center no-repeat;
     text-align: left;
     margin-top: 50px;
     margin-bottom: 50px;
@@ -199,7 +199,7 @@ your selectors that need to be shown
 on desktop AND are --inline-block-- */
     .about-us-video {
         height:523px;
-        background: url(/images/Video-fullsize2.jpg) no-repeat center cover; 
+        background: url(../images/Video-fullsize2.jpg) no-repeat center cover; 
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
@@ -254,37 +254,37 @@ h3 {
 }
 
 .services-graphicdesign {
-    background: url(/images/paintbrush.png) no-repeat;
+    background: url(../images/paintbrush.png) no-repeat;
     margin: 30px 30px 10px 41px;
     height: 61px;
 }
 
 .services-mobappdev {
-    background: url(/images/mobile-phone.png) no-repeat;
+    background: url(../images/mobile-phone.png) no-repeat;
     margin: 30px 30px 10px 41px;
     height: 59px;
 }
 
 .services-webdev {
-    background: url(/images/monitor.png) no-repeat;
+    background: url(../images/monitor.png) no-repeat;
     margin: 30px 30px 10px 41px;
     height: 48px;
 }
 
 .services-seomarket {
-    background: url(/images/seomarketing.png) no-repeat;
+    background: url(../images/seomarketing.png) no-repeat;
     margin: 30px 30px 10px 41px;
     height: 48px;
 }
 
 .services-gamedev {
-    background: url(/images/gameicon.png) no-repeat;
+    background: url(../images/gameicon.png) no-repeat;
     margin: 30px 30px 10px 41px;
     height: 48px;
 }
 
 .services-love {
-    background: url(/images/loveicon.png) no-repeat;
+    background: url(../images/loveicon.png) no-repeat;
     margin: 30px 30px 10px 41px;
     height: 48px;
 }
@@ -648,7 +648,7 @@ on desktop AND are --inline-block-- */
 
 
 .testimonials {
-    background: url(/images/testimonial-background.png) center no-repeat;
+    background: url(../images/testimonial-background.png) center no-repeat;
     background-size: cover;
     height: 562px;
     width: auto;
@@ -675,13 +675,13 @@ on desktop AND are --inline-block-- */
 }
 
 .client-review {
-    background: url(/images/client1.png) no-repeat;
+    background: url(../images/client1.png) no-repeat;
     margin-top: 15px;
     height: 81px;
 }
 
 .client-review2 {
-    background: url(/images/client2.png) no-repeat;
+    background: url(../images/client2.png) no-repeat;
     margin-top: 15px;
     height: 81px;
 }
@@ -859,7 +859,7 @@ on desktop AND are --inline-block-- */
 */
 
 .map {
-    background: url(/images/big-map.png) center no-repeat;
+    background: url(../images/big-map.png) center no-repeat;
     background-size: cover;
     height: 129px;
     width: auto;
