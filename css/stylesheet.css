@@ -68,7 +68,7 @@ nav > div > span {
 .hero {
     color: #9abd67;
     height: 350px;
-    background: #9abd67 url('../images/silhouette.png') repeat-x bottom;
+    background: #9abd67 url(../images/silhouette.png) repeat-x bottom;
     background-size: auto 85px;
 }
 
@@ -115,7 +115,7 @@ p {
 .about-us h1 {
     color: #454545;
     font: 400 18px 'Source Sans Pro';
-    background: url('../images/man449.png') no-repeat;
+    background: url(../images/man449.png) no-repeat;
     height: 30px;
     padding-left: 35px;
     line-height: 30px;
